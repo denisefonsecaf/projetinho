@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-size: 100%;
+    background-image: url(https://static5.depositphotos.com/1020422/460/i/950/depositphotos_4601707-stock-photo-old-paper-compass-rope-and.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    text-align: center;
+}
+
+.conteudo{
+    margin-top: 13%;
+}
+
+.titulo{
+    margin-bottom: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.curiosidade{
+    margin-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.texto{
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 25px;
+    margin-left: 30%;
+    margin-right: 30%;
+    flex-direction: column;
+    text-align: left;
+    margin-bottom: 25px;
+}
